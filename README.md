@@ -181,15 +181,8 @@ The dashboard follows a leadership-oriented analytics narrative:
 # 📷 Dashboard Preview
 
 ## Executive Dashboard
-(Add Screenshot Here)
+<img width="1649" height="821" alt="image" src="https://github.com/user-attachments/assets/f280fba0-05dd-453b-8015-6994dc7ab9ab" />
 
-## Regional Intelligence Dashboard
-(Add Screenshot Here)
-
-## Fuel Type Analysis
-(Add Screenshot Here)
-
----
 
 # 🚀 Business Impact
 
